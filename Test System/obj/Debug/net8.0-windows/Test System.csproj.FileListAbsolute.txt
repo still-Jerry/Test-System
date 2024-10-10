@@ -1,0 +1,20 @@
+C:\Users\Олечка\Desktop\Test System\Test System\bin\Debug\net8.0-windows\Test System.exe
+C:\Users\Олечка\Desktop\Test System\Test System\bin\Debug\net8.0-windows\Test System.deps.json
+C:\Users\Олечка\Desktop\Test System\Test System\bin\Debug\net8.0-windows\Test System.runtimeconfig.json
+C:\Users\Олечка\Desktop\Test System\Test System\bin\Debug\net8.0-windows\Test System.dll
+C:\Users\Олечка\Desktop\Test System\Test System\bin\Debug\net8.0-windows\Test System.pdb
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\Test System_MarkupCompile.cache
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\Test System_MarkupCompile.lref
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\Test System.g.resources
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\Test System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\Test System.AssemblyInfoInputs.cache
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\Test System.AssemblyInfo.cs
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\Test System.csproj.CoreCompileInputs.cache
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\Test System.dll
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\refint\Test System.dll
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\Test System.pdb
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\Test System.genruntimeconfig.cache
+C:\Users\Олечка\Desktop\Test System\Test System\obj\Debug\net8.0-windows\ref\Test System.dll

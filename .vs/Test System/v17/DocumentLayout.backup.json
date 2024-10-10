@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Test System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2948EA69-1615-45C8-80AD-F61DD1FCDC57}|Test System\\Test System.csproj|c:\\users\\\u043E\u043B\u0435\u0447\u043A\u0430\\desktop\\test system\\test system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2948EA69-1615-45C8-80AD-F61DD1FCDC57}|Test System\\Test System.csproj|solutionrelative:test system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2948EA69-1615-45C8-80AD-F61DD1FCDC57}|Test System\\Test System.csproj|c:\\users\\\u043E\u043B\u0435\u0447\u043A\u0430\\desktop\\test system\\test system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2948EA69-1615-45C8-80AD-F61DD1FCDC57}|Test System\\Test System.csproj|solutionrelative:test system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2948EA69-1615-45C8-80AD-F61DD1FCDC57}|Test System\\Test System.csproj|c:\\users\\\u043E\u043B\u0435\u0447\u043A\u0430\\desktop\\test system\\test system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2948EA69-1615-45C8-80AD-F61DD1FCDC57}|Test System\\Test System.csproj|solutionrelative:test system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Test System\\Test System\\App.xaml",
+              "RelativeDocumentMoniker": "Test System\\App.xaml",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Test System\\Test System\\App.xaml",
+              "RelativeToolTip": "Test System\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T19:20:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Test System\\Test System\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Test System\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Test System\\Test System\\MainWindow.xaml",
+              "RelativeToolTip": "Test System\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-08T19:11:21.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Test System\\Test System\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Test System\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0447\u043A\u0430\\Desktop\\Test System\\Test System\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Test System\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:11:18.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
